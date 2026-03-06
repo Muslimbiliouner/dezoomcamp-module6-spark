@@ -1,0 +1,6 @@
+*.parquet
+yellow_nov_2025/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
