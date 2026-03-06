@@ -1,8 +1,8 @@
-# 🚕 Module 6 Homework — Apache Spark & PySpark
+# Module 6 Homework — Apache Spark & PySpark
 
 Homework submission for **Module 6: Batch Processing with Apache Spark** using NYC Yellow Taxi data for November 2025.
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Python 3.11
 - PySpark 3.3.2
@@ -10,7 +10,7 @@ Homework submission for **Module 6: Batch Processing with Apache Spark** using N
 - uv (package manager)
 - Ubuntu / WSL2
 
-## 📁 Project Structure
+## Project Structure
 ```
 homework6/
 ├── homework6.ipynb          # Main notebook with all answers
@@ -19,7 +19,7 @@ homework6/
 └── README.md
 ```
 
-## 🚀 Setup & Run
+## Setup & Run
 
 ### Prerequisites
 ```bash
